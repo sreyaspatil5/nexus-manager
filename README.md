@@ -2,3 +2,7 @@
 
 
 ## Nexus Manager
+
+### Requirements
+* [Java 8+](http://www.oracle.com/technetwork/java/javase/overview/index.html) 
+* [Apache Maven 3.5+](https://maven.apache.org/)
